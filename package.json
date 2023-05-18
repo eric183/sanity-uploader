@@ -1,0 +1,21 @@
+{
+  "name": "sanity-uploader",
+  "version": "1.0.0",
+  "description": "sanity uploader written in TypeScript, 0 dependencies",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric183/sanity-uploader.git"
+  },
+  "keywords": [
+    "Sanity",
+    "TypeScript",
+    "Upload"
+  ],
+  "author": "Eric Kuang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eric183/sanity-uploader/issues"
+  },
+  "homepage": "https://github.com/eric183/sanity-uploader#readme"
+}
