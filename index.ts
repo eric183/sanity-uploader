@@ -1,6 +1,6 @@
 import { ISanityDocument } from "./typing";
 
-export const uploadSanity = async (file: File, url: string, Sanity_Token: string): Promise<ISanityDocument> => {
+export const SanityUploader = async (file: File, url: string, Sanity_Token: string): Promise<ISanityDocument> => {
   return new Promise((resolve) => {
     const reader = new FileReader();
 
